@@ -1,6 +1,6 @@
 # EVindia
 
-Electric vehicle all the data drive link-https://drive.google.com/drive/folders/1ymhsetrcs2DR11FgI7cuArYAr1UZwKkN?usp=share_link
+Electric vehicle assets drive link-https://drive.google.com/drive/folders/1UoXiuTQVUnGPZEwf5XsQyLvTeRHFucuK?usp=share_link
 
 
 video documentation link-https://drive.google.com/file/d/11WgTIuizT67-CDIXyU38gBm0dJjHp_zI/view?usp=share_link
